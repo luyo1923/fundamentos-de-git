@@ -1,4 +1,0 @@
-debian
-Linux Mint
-Ubuntu
-mxlinux

@@ -6,3 +6,4 @@ CentOS
 Fedora
 Manjaro
 Alpine
+Archlinux

@@ -1,0 +1,8 @@
+debian
+Linux Mint
+Ubuntu
+Red Hat
+CentOS
+Fedora
+Manjaro
+Alpine
